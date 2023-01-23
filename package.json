@@ -58,6 +58,7 @@
 	},
 	"dependencies": {
 		"bootstrap": "^5.2.3",
-		"core-js": "^3.25.2"
+		"core-js": "^3.25.2",
+		"dotenv": "^16.0.3"
 	}
 }
